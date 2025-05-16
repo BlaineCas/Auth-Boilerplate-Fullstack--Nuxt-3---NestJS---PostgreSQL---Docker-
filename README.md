@@ -31,12 +31,3 @@ Secure and scalable authentication boilerplate for modern fullstack apps. Featur
 - Nuxt UI Pro license key _(free for development)_
 
 ---
-
-## 🚀 Setup
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/yourusername/auth-boilerplate.git
-cd auth-boilerplate
-```
