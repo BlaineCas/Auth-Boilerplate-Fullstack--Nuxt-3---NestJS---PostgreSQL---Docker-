@@ -4,7 +4,7 @@
             <UAuthForm class="max-w-md mx-auto" title="Boilerplate" description="Login"
                 icon="i-tabler-alien" :fields="fields" :providers="providers" :schema="schema"
                 :loading="authStore.isLoading || googleLoading"
-                :submit-button="{ label: 'Autentificare', color: 'primary', block: true }" @submit="handleSubmit">
+                :submit-button="{ label: 'Login', color: 'primary', block: true }" @submit="handleSubmit">
                 <template #footer>
                     <div class="text-sm text-center space-y-2">
                         <NuxtLink to="/forgot-password"

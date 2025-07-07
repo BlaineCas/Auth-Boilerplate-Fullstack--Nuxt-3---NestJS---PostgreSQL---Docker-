@@ -82,7 +82,7 @@
             </div>
             <div v-else class="text-center py-10">
                 <p class="text-lg text-yellow-400">You are not logged in.</p>
-                <UButton to="/login" label="Mergi la Autentificare" color="primary" class="mt-4" />
+                <UButton to="/login" label="Go to Login" color="primary" class="mt-4" />
             </div>
         </UCard>
     </div>
